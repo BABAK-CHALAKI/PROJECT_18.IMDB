@@ -1,0 +1,44 @@
+<html lang="fa" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="جلسه هجدهم">
+  <meta name="keywords" content="">
+  <meta name="auther" content="0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="CCS.BOOTSTRAP/bootstrap.css" type="text/css" rel="stylesheet">
+  <link href="style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+
+  <img class="img" src="IMDB_Logo_2016.svg" height="100" alt="logo">
+  <div id="glassmorphism">
+    <nav class="navbar navbar-expand-lg navbar-light pt-0 pb-0 mt-2">
+
+
+       <!-- گوشی -->
+      <select id="select"
+        class="form-select border3 d-flex w-auto me-automb-lg-0 d-xxl-none d-xl-none d-lg-none d-md-none d-sm-block d-block"
+        aria-label="Default select example" onchange="display_years(this)">
+        <option selected>Select years</option>
+      </select>
+      <!-- کامپیوتر -->
+      <select id="select"
+        class="form-select border3 d-flex w-auto me-automb-lg-0 d-xxl-block d-xl-block d-lg-block d-md-block d-sm-none d-none"
+        aria-label="Default select example" onchange="display_years(this)">
+        <option selected>Select years</option>
+      </select>
+  </div>
+ 
+
+
+
+  <div class="container-fluid">
+    <div id="father" class="row mt-5"></div>
+  </div>
+  <script src="script.js"></script>
+  <script src="JS.BOOTSTRAP/bootstrap.js"></script>
+</body>
+
+</html>
