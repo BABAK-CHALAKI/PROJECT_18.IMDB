@@ -69,11 +69,14 @@ p{
   margin-left:45%;
   
 }
-.grandchild_1 {
+.grandchild_1{
   color: White;
 }
 
 .grandchild_2{
+  color: White;
+}
+.grandchild_3{
   color: White;
 }
 
