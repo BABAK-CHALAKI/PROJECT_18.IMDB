@@ -5,7 +5,7 @@
 
 body{
   background-color: black;
-  color: White;
+  
   
 }
 
@@ -46,9 +46,6 @@ backdrop-filter: blur(3.1px);
 
   margin-left: -150px;
   width: 300px;
-  
-    
-  color: White;
   border-radius: 20px;
   margin-top: 20px;
   margin-left: 20px;
@@ -70,7 +67,10 @@ p{
  margin-top:-65px;
   margin-left:45%;
   
-
 }
+.grandchild_1{
+  color: White;
+}
+
 
 
