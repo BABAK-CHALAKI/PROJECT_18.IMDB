@@ -36,7 +36,7 @@ function display_all(years){
     if(years[i].info.plot){
     grandchild_2.innerHTML = years[i].info.plot
     }
-    if(years[i].info.rating > 8){
+    if(years[i].info.rating > 7.9){
       grandchild_1.style.color = "gold"
     }
     if(years[i].info.rating <4){
