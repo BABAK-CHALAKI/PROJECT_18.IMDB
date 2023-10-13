@@ -1,5 +1,7 @@
 
 
+
+
 var select_year;
 
 
@@ -126,6 +128,14 @@ async function read_data(file) {
 
 
 read_data("https://raw.githubusercontent.com/alirezaghd/Mini_movie/main/moviedata.json");
+
+
+
+
+
+
+
+
 
 
 
