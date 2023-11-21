@@ -1,3 +1,3 @@
 # PROJECT_18.IMDB
 
-Preview on github.io: [github.io link](https://nahidebrahimian.github.io/Website-Programming-Course/Instagram-Logo/)
+Preview on github.io: [DEMO](https://babak-chalaki.github.io/PROJECT_18.IMDB/)
